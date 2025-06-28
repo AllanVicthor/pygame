@@ -1,4 +1,4 @@
-![img_1.png](img_1.png) # Mountain Shooter
+![img.png](img.png) # Mountain Shooter
 ----------
 
 ### About
